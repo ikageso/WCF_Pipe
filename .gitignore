@@ -1,0 +1,16 @@
+*.suo
+WCF_Pipe/.vs/
+*.bak
+*.user
+/WCF_Pipe/WCF_Pipe/bin/Debug
+/WCF_Pipe/WCF_Pipe/obj/Debug
+/WCF_Pipe/WpfApp1/bin/Debug
+/WCF_Pipe/WpfApp1/obj/Debug
+/WCF_Pipe/WpfApp2/bin/Debug
+/WCF_Pipe/WpfApp2/obj/Debug
+/WCF_Pipe/WCF_Pipe/bin/Release
+/WCF_Pipe/WCF_Pipe/obj/Release
+/WCF_Pipe/WpfApp1/bin/Release
+/WCF_Pipe/WpfApp1/obj/Release
+/WCF_Pipe/WpfApp2/bin/Release
+/WCF_Pipe/WpfApp2/obj/Release
